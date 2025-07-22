@@ -2,13 +2,18 @@
 
 ## 👨‍💻 About Me
 
-I'm a 14 year old who is currently learning about AI and Python.
+I'm a 14-year-old currently learning about AI and Python
+I'm passionate about technology and coding
 
-## My Projects
+## 🌍 Fun Fact
 
-*   [Habit Tracker](https://github.com/Ruaridhmacdonald26/Habit-Tracker-app)
+I'm half Scottish and half Japanese 
 
-## Skills
+## 🚀 My Projects
 
-*   Python
-*   A bit of HTML
+- [Habit Tracker](https://github.com/Ruaridhmacdonald26/Habit-Tracker-app) 📊 – Track your habits and boost productivity!
+
+## 🛠️ Skills
+
+- Python 
+- HTML (just a bit)

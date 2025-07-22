@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a 14 year old who is currently learning about AI and python.
+I'm a 14 year old who is currently learning about AI and Python.
 
 ## My Projects
 

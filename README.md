@@ -2,9 +2,9 @@
 
 ## About Me
 
-👨‍💻I'm a 14 year old who is currently learning about AI and Python.
+I'm a 14 year old who is currently learning about AI and Python.
 
-## My Projects
+## 👨‍💻 My Projects
 
 *   [Habit Tracker](https://github.com/Ruaridhmacdonald26/Habit-Tracker-app)
 

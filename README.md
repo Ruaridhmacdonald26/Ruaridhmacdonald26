@@ -1,4 +1,4 @@
-# Hi, I'm Ruaridh! 👋
+# Hi there, I'm Ruaridh! 👋
 
 ## About Me
 

@@ -12,7 +12,3 @@ I'm a 14 year old who is currently learning about AI and Python.
 
 *   Python
 *   A bit of HTML
-
-## GitHub Stats
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ruaridhmacdonald26&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)

@@ -11,6 +11,7 @@ I'm a 14 year old who is currently learning about AI and python.
 ## Skills
 
 *   Python
+*   A bit of HTML
 
 ## GitHub Stats
 

@@ -4,7 +4,7 @@
 
 - I'm a 14-year-old currently learning about AI and Python
 - I'm passionate about technology and coding
-- I'm half Scottish and half Japanese 
+- I'm Scottish and Japanese 
 
 ## 🚀 My Projects
 

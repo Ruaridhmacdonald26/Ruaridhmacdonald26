@@ -7,7 +7,8 @@
 
 ## 🚀 My Projects
 
-- [Habit Tracker](https://github.com/Ruaridhmacdonald26/Habit-Tracker-app) 
+- [Habit Tracker](https://github.com/Ruaridhmacdonald26/Habit-Tracker-app)
+- [NucLi](https://github.com/Ruaridhmacdonald26/NucLi)
 
 ## 🛠️ Skills
 

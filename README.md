@@ -17,4 +17,4 @@
 - AI prompts
 - Website building
 - Databases and docker
-- 
+- Using Hostinger and VPS

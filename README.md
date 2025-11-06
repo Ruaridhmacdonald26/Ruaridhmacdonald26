@@ -1,15 +1,20 @@
 # Hi there, I'm Ruaridh! 👋
 
-## 👨‍💻 About Me
+## About Me
 
 - I'm a 14-year-old currently learning about AI and Python
-- I'm Scottish and Japanese 
+- I'm Scottish and Japanese
+- I have a passion for learning about technology and building something new
 
-## 🚀 My Projects
+## 🚀 My Projects so far
 
 - [Habit Tracker](https://github.com/Ruaridhmacdonald26/Habit-Tracker-app)
+- [SFNL/ Scottish Forum on Nuclear Legacies](sfnl.scot)
 
 ## 🛠️ Skills
 
 - Python 
-- Building websites
+- AI prompts
+- Website building
+- Databases and docker
+- 

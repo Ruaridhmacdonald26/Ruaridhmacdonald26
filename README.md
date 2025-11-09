@@ -1,4 +1,4 @@
-# Hi there, I'm Ruaridh! 👋
+# Hi there, I'm Ruaridh! wave](https://github.com/user-attachments/assets/44a3e55e-6c05-42b8-ae66-a1e1bf782902)
 
 ## About Me
 
@@ -15,6 +15,8 @@
 
 - Python 
 - AI prompts
-- Website building
+- Website building!
+
 - Databases and docker
 - Using Hostinger and VPS
+- 

@@ -1,4 +1,4 @@
-# Hi there, I'm Ruaridh! ![wave](https://github.com/user-attachments/assets/5c81d57f-bb2a-4354-b956-75d4fd5341ee)
+# Hi there, I'm Ruaridh! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 ## About Me
 
 - I'm a 14-year-old currently learning about AI and Python

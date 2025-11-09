@@ -1,5 +1,4 @@
-# Hi there, I'm Ruaridh! wave](https://github.com/user-attachments/assets/44a3e55e-6c05-42b8-ae66-a1e1bf782902)
-
+# Hi there, I'm Ruaridh! ![wave](https://github.com/user-attachments/assets/5c81d57f-bb2a-4354-b956-75d4fd5341ee)
 ## About Me
 
 - I'm a 14-year-old currently learning about AI and Python

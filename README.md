@@ -1,4 +1,4 @@
-# Hi there, I'm Ruaridh! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
+# Hello, I'm Ruaridh <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 ## About Me
 
 - I'm a 15 year old currently learning about Python and software development
